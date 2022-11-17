@@ -152,7 +152,3 @@ int replace_string(char **old, char *new)
 	*old = new;
 	return (1);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Ter
